@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b610360b-2a02-4f7d-b130-18f46b14e291" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/Trainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/Trainee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/tfms/database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/tfms/database/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/tfms/services/UpdateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/tfms/services/UpdateServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/trainer-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/trainer-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/com/revature/tfms/database/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/com/revature/tfms/database/DatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/com/revature/tfms/services/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/com/revature/tfms/services/UpdateServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/WEB-INF/classes/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/contact.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/contact.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/trainer-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TFMS-p1-0.0.1-SNAPSHOT/trainer-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/tfms/database/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/tfms/database/DatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/tfms/services/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/tfms/services/UpdateServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2023-02-17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/about_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/about_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/add_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/add_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/admin_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/admin_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/contact_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/contact_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/delete_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/delete_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/edit_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/edit_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/login_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/login_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/show_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/TFMS-p1-0.0.1-SNAPSHOT/org/apache/jsp/show_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p0-foundational-tfms/logs/htmlLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../p0-foundational-tfms/logs/htmlLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p0-foundational-tfms/logs/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/../p0-foundational-tfms/logs/logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/java/com/tfms/app/dao/impl/AssociateDaoImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/java/com/tfms/app/dao/impl/AssociateDaoImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/java/com/tfms/app/menu/MenuDrivenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/java/com/tfms/app/menu/MenuDrivenApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/resources/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../p0-foundational-tfms/src/main/resources/mysql.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PNMi6YRpURr3gSNAz7dBIDAhnP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/TFMS project/TFMS/TFMS-p1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b610360b-2a02-4f7d-b130-18f46b14e291" name="Changes" comment="" />
+      <created>1683293209640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683293209640</updated>
+    </task>
+    <servers />
+  </component>
+</project>
